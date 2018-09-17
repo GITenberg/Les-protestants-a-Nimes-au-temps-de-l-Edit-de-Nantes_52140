@@ -1,0 +1,28 @@
+_repo: Les-protestants-a-Nimes-au-temps-de-l-Edit-de-Nantes_52140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boulenger, Jacques
+    alias: Boulenger, Jacques Romain
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '46694'
+    url: http://www.gutenberg.org/2009/agents/46694
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2016-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52140'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Reformed Church -- France -- Nîmes'
+- !lcsh 'Huguenots -- France -- Nîmes'
+- !lcsh 'France. Edit de Nantes'
+- GITenberg
+title: Les protestants à Nîmes au temps de l'Édit de Nantes
+url: http://www.gutenberg.org/ebooks/52140
